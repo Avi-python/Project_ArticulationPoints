@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Extension/1.0.0": {
+        "dependencies": {
+          "GraphSpace": "1.0.0"
+        },
+        "runtime": {
+          "Extension.dll": {}
+        }
+      },
+      "GraphSpace/1.0.0": {
+        "runtime": {
+          "GraphSpace.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Extension/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GraphSpace/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

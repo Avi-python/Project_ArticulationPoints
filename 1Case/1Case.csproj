@@ -1,7 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\ArticulationPointsFinder\ArticulationPointsFinder.csproj" />
+    <!-- <ProjectReference Include="..\GraphSpace\GraphSpace.csproj" /> -->
+    <ProjectReference Include="..\Extension\Extension.csproj" />
+    <ProjectReference Include="..\GraphSpace\GraphSpace.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

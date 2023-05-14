@@ -2,28 +2,47 @@
   "version": 3,
   "targets": {
     "net7.0": {
-      "ArticulationPointsFinder/1.0.0": {
+      "Extension/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "GraphSpace": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Extension.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Extension.dll": {}
+        }
+      },
+      "GraphSpace/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
-          "bin/placeholder/ArticulationPointsFinder.dll": {}
+          "bin/placeholder/GraphSpace.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ArticulationPointsFinder.dll": {}
+          "bin/placeholder/GraphSpace.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ArticulationPointsFinder/1.0.0": {
+    "Extension/1.0.0": {
       "type": "project",
-      "path": "../ArticulationPointsFinder/ArticulationPointsFinder.csproj",
-      "msbuildProject": "../ArticulationPointsFinder/ArticulationPointsFinder.csproj"
+      "path": "../Extension/Extension.csproj",
+      "msbuildProject": "../Extension/Extension.csproj"
+    },
+    "GraphSpace/1.0.0": {
+      "type": "project",
+      "path": "../GraphSpace/GraphSpace.csproj",
+      "msbuildProject": "../GraphSpace/GraphSpace.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "ArticulationPointsFinder >= 1.0.0"
+      "Extension >= 1.0.0",
+      "GraphSpace >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -59,8 +78,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Uni_programming\\Uni_CSharp\\Project\\ArticulationPoints\\ArticulationPointsFinder\\ArticulationPointsFinder.csproj": {
-              "projectPath": "D:\\Uni_programming\\Uni_CSharp\\Project\\ArticulationPoints\\ArticulationPointsFinder\\ArticulationPointsFinder.csproj"
+            "D:\\Uni_programming\\Uni_CSharp\\Project\\ArticulationPoints\\Extension\\Extension.csproj": {
+              "projectPath": "D:\\Uni_programming\\Uni_CSharp\\Project\\ArticulationPoints\\Extension\\Extension.csproj"
+            },
+            "D:\\Uni_programming\\Uni_CSharp\\Project\\ArticulationPoints\\GraphSpace\\GraphSpace.csproj": {
+              "projectPath": "D:\\Uni_programming\\Uni_CSharp\\Project\\ArticulationPoints\\GraphSpace\\GraphSpace.csproj"
             }
           }
         }

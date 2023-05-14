@@ -8,15 +8,24 @@
     ".NETCoreApp,Version=v7.0": {
       "1Case/1.0.0": {
         "dependencies": {
-          "ArticulationPointsFinder": "1.0.0"
+          "Extension": "1.0.0",
+          "GraphSpace": "1.0.0"
         },
         "runtime": {
           "1Case.dll": {}
         }
       },
-      "ArticulationPointsFinder/1.0.0": {
+      "Extension/1.0.0": {
+        "dependencies": {
+          "GraphSpace": "1.0.0"
+        },
         "runtime": {
-          "ArticulationPointsFinder.dll": {}
+          "Extension.dll": {}
+        }
+      },
+      "GraphSpace/1.0.0": {
+        "runtime": {
+          "GraphSpace.dll": {}
         }
       }
     }
@@ -27,7 +36,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ArticulationPointsFinder/1.0.0": {
+    "Extension/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GraphSpace/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

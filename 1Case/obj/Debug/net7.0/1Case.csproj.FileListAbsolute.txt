@@ -3,8 +3,6 @@ D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\1Case\bin\Debug\net7.0\
 D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\1Case\bin\Debug\net7.0\1Case.runtimeconfig.json
 D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\1Case\bin\Debug\net7.0\1Case.dll
 D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\1Case\bin\Debug\net7.0\1Case.pdb
-D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\1Case\bin\Debug\net7.0\ArticulationPointsFinder.dll
-D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\1Case\bin\Debug\net7.0\ArticulationPointsFinder.pdb
 D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\1Case\obj\Debug\net7.0\1Case.csproj.AssemblyReference.cache
 D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\1Case\obj\Debug\net7.0\1Case.GeneratedMSBuildEditorConfig.editorconfig
 D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\1Case\obj\Debug\net7.0\1Case.AssemblyInfoInputs.cache
@@ -16,3 +14,7 @@ D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\1Case\obj\Debug\net7.0\
 D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\1Case\obj\Debug\net7.0\1Case.pdb
 D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\1Case\obj\Debug\net7.0\1Case.genruntimeconfig.cache
 D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\1Case\obj\Debug\net7.0\ref\1Case.dll
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\1Case\bin\Debug\net7.0\Extension.dll
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\1Case\bin\Debug\net7.0\GraphSpace.dll
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\1Case\bin\Debug\net7.0\Extension.pdb
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\1Case\bin\Debug\net7.0\GraphSpace.pdb

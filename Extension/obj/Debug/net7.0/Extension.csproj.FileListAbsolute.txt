@@ -1,0 +1,15 @@
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\Extension\bin\Debug\net7.0\Extension.deps.json
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\Extension\bin\Debug\net7.0\Extension.dll
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\Extension\bin\Debug\net7.0\Extension.pdb
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\Extension\bin\Debug\net7.0\GraphSpace.dll
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\Extension\bin\Debug\net7.0\GraphSpace.pdb
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\Extension\obj\Debug\net7.0\Extension.csproj.AssemblyReference.cache
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\Extension\obj\Debug\net7.0\Extension.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\Extension\obj\Debug\net7.0\Extension.AssemblyInfoInputs.cache
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\Extension\obj\Debug\net7.0\Extension.AssemblyInfo.cs
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\Extension\obj\Debug\net7.0\Extension.csproj.CoreCompileInputs.cache
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\Extension\obj\Debug\net7.0\Extension.csproj.CopyComplete
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\Extension\obj\Debug\net7.0\Extension.dll
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\Extension\obj\Debug\net7.0\refint\Extension.dll
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\Extension\obj\Debug\net7.0\Extension.pdb
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\Extension\obj\Debug\net7.0\ref\Extension.dll

@@ -1,0 +1,12 @@
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\GraphSpace\bin\Debug\net7.0\GraphSpace.deps.json
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\GraphSpace\bin\Debug\net7.0\GraphSpace.dll
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\GraphSpace\bin\Debug\net7.0\GraphSpace.pdb
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\GraphSpace\obj\Debug\net7.0\GraphSpace.csproj.AssemblyReference.cache
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\GraphSpace\obj\Debug\net7.0\GraphSpace.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\GraphSpace\obj\Debug\net7.0\GraphSpace.AssemblyInfoInputs.cache
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\GraphSpace\obj\Debug\net7.0\GraphSpace.AssemblyInfo.cs
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\GraphSpace\obj\Debug\net7.0\GraphSpace.csproj.CoreCompileInputs.cache
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\GraphSpace\obj\Debug\net7.0\GraphSpace.dll
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\GraphSpace\obj\Debug\net7.0\refint\GraphSpace.dll
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\GraphSpace\obj\Debug\net7.0\GraphSpace.pdb
+D:\Uni_programming\Uni_CSharp\Project\ArticulationPoints\GraphSpace\obj\Debug\net7.0\ref\GraphSpace.dll
